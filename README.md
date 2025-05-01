@@ -1,14 +1,14 @@
-# :joystick: Jogo do Mario - Projeto Web Interativo
+# 🕹️ Jogo do Mario - Projeto Web Interativo
 
 Este projeto é um jogo simples baseado no personagem Mario, desenvolvido como atividade prática utilizando HTML, CSS e JavaScript. O objetivo principal é aplicar conceitos de animações, eventos, manipulação do DOM e lógica básica de jogos.
 
-## :dart: Objetivo
+## 🎯 Objetivo
 
 Criar uma página interativa onde o personagem Mario deve pular obstáculos (cano) em um cenário animado. O jogo termina quando há colisão com o obstáculo, exibindo uma tela de "Game Over" com opção para reiniciar.
 
 ---
 
-## :tools: Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3** (animações e layout responsivo)
@@ -16,19 +16,19 @@ Criar uma página interativa onde o personagem Mario deve pular obstáculos (can
 
 ---
 
-## :camera_with_flash: Funcionalidades
+## 📸 Funcionalidades
 
-- :white_check_mark: Cenário com nuvens em movimento
-- :white_check_mark: Mario com animação de pulo suave
-- :white_check_mark: Cano se movendo na tela
-- :white_check_mark: Detecção de colisão entre Mario e o cano
-- :white_check_mark: Tela de **Game Over** com botão para **Recomeçar**
-- :white_check_mark: Nuvens param corretamente ao final do jogo
-- :white_check_mark: Código organizado e fácil de entender
+- ✅ Cenário com nuvens em movimento
+- ✅ Mario com animação de pulo suave
+- ✅ Cano se movendo na tela
+- ✅ Detecção de colisão entre Mario e o cano
+- ✅ Tela de **Game Over** com botão para **Recomeçar**
+- ✅ Nuvens param corretamente ao final do jogo
+- ✅ Código organizado e fácil de entender
 
 ---
 
-## :arrow_forward: Como Executar
+## ▶️ Como Executar
 
 1. Clone ou baixe o repositório:
 
@@ -67,3 +67,4 @@ Editar
     └── game-over.png
 👨‍💻 Autor
 Projeto desenvolvido por [Seu Nome] como atividade prática para o curso de desenvolvimento web.
+
