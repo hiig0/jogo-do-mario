@@ -66,5 +66,5 @@ Editar
     ├── clouds.png
     └── game-over.png
 👨‍💻 Autor
-Projeto desenvolvido por [Seu Nome] como atividade prática para o curso de desenvolvimento web.
+Projeto desenvolvido por Higor Ricardo como atividade prática para o curso de desenvolvimento web.
 
