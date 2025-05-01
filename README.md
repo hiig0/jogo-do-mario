@@ -34,11 +34,13 @@ Criar uma página interativa onde o personagem Mario deve pular obstáculos (can
 
 ```bash
 git clone https://github.com/seu-usuario/jogo-mario.git
+```
+---
 Abra o arquivo index.html no navegador.
 
 Não é necessário nenhum servidor ou instalação — é tudo feito com tecnologias do lado do cliente.
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceitos:
 
 Manipulação do DOM com JavaScript
@@ -48,13 +50,11 @@ Lógica de jogo com setInterval e eventos de teclado
 Criação de animações com @keyframes
 
 Controle de fluxo e colisões em tempo real
-
+---
 Organização de arquivos em um projeto web
 
-🧩 Estrutura de Pastas
-pgsql
-Copiar
-Editar
+## 🧩 Estrutura de Pastas
+```bash
 📁 jogo-mario
 ├── index.html
 ├── style.css
@@ -65,6 +65,7 @@ Editar
     ├── pipe.png
     ├── clouds.png
     └── game-over.png
+```
 👨‍💻 Autor
 Projeto desenvolvido por Higor Ricardo como atividade prática para o curso de desenvolvimento web.
 
