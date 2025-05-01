@@ -38,6 +38,7 @@ git clone https://github.com/seu-usuario/jogo-mario.git
 Abra o arquivo index.html no navegador.
 
 Não é necessário nenhum servidor ou instalação — é tudo feito com tecnologias do lado do cliente.
+
 ---
 ## 🧠 Aprendizados
 Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceitos:
